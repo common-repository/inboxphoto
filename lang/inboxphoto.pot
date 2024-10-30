@@ -1,0 +1,274 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: inbox.photo helper\n"
+"POT-Creation-Date: 2019-10-25 11:49+0200\n"
+"PO-Revision-Date: 2017-01-26 16:34+0100\n"
+"Last-Translator: Carl Conrad <carl@koffeeware.com>\n"
+"Language-Team: Carl Conrad <carl@koffeeware.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: inboxphoto.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inboxphoto.php:51 include/settings.php:1
+msgid "Settings"
+msgstr ""
+
+#: include/actions.php:1 include/actions.php:3
+msgid "Order my product"
+msgstr ""
+
+#: include/actions.php:3 include/widget.php:126
+msgid "Product not supported."
+msgstr ""
+
+#: include/actions.php:3 include/widget.php:73
+msgid "Price:"
+msgstr ""
+
+#: include/actions.php:3
+msgid "Category snippet not supported."
+msgstr ""
+
+#: include/cron-tasks.php:12
+msgid "Daily"
+msgstr ""
+
+#: include/cron-tasks.php:31
+msgid "Customer"
+msgstr ""
+
+#: include/settings.php:1
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: include/settings.php:1
+msgid "Your inbox.photo environment"
+msgstr ""
+
+#: include/settings.php:1
+msgid "General options"
+msgstr ""
+
+#: include/settings.php:1
+msgid "Documentation"
+msgstr ""
+
+#: include/settings.php:1
+msgid "You need to be connected to a valid inbox.photo account."
+msgstr ""
+
+#: include/settings.php:1
+msgid "Your shop slug is missing or incorrect."
+msgstr ""
+
+#: include/settings.php:1
+msgid "Your inbox.photo slug (without .inbox.photo)"
+msgstr ""
+
+#: include/settings.php:1
+msgid "check"
+msgstr ""
+
+#: include/settings.php:1
+msgid "Your inbox.photo API token"
+msgstr ""
+
+#: include/settings.php:1
+msgid "Your currency"
+msgstr ""
+
+#: include/settings.php:1
+msgid "Your inbox.photo button default text"
+msgstr ""
+
+#: include/settings.php:1
+msgid "Your inbox.photo button CSS"
+msgstr ""
+
+#: include/settings.php:1
+msgid "Your inbox.photo iframe height"
+msgstr ""
+
+#: include/settings.php:1
+msgid "Customer data import"
+msgstr ""
+
+#: include/settings.php:1
+msgid "Import customer data (requires API token)"
+msgstr ""
+
+#: include/settings.php:1
+msgid "Click tracking"
+msgstr ""
+
+#: include/settings.php:1
+msgid "Track clicks with Google Analytics"
+msgstr ""
+
+#: include/settings.php:1
+msgid "Track clicks with Google Tag Manager"
+msgstr ""
+
+#: include/settings.php:1
+msgid "Currently on your shop:"
+msgstr ""
+
+#: include/settings.php:1
+msgid "orders:"
+msgstr ""
+
+#: include/settings.php:1
+msgid "new orders"
+msgstr ""
+
+#: include/settings.php:1
+msgid "opened orders"
+msgstr ""
+
+#: include/settings.php:1
+msgid "downloaded orders"
+msgstr ""
+
+#: include/settings.php:1
+msgid "Connect to dashboard"
+msgstr ""
+
+#: include/settings.php:1
+msgid ""
+"This plug-in is designed to help you link your WordPress web site to your "
+"inbox.photo based web shop by providing shortcodes for your ordering pages."
+msgstr ""
+
+#: include/settings.php:1
+msgid "Examples."
+msgstr ""
+
+#: include/settings.php:1
+msgid ""
+"Short code usage example for product category button: "
+"<code>[inboxphoto_button category=\"prints\"]</code>"
+msgstr ""
+
+#: include/settings.php:1
+msgid ""
+"Short code usage example for product category button with custom text: "
+"<code>[inboxphoto_button category=\"prints\" text=\"text\"]</code>"
+msgstr ""
+
+#: include/settings.php:1
+msgid ""
+"Short code usage example for product: <code>[inboxphoto_button category="
+"\"prints\" product=\"1234\"]</code>"
+msgstr ""
+
+#: include/settings.php:1
+msgid ""
+"Short code usage example for product snippet: <code>[inboxphoto_snippet "
+"category=\"calendars\" product=\"5678\"]</code>"
+msgstr ""
+
+#: include/settings.php:1
+msgid ""
+"Short code usage example for inbox.photo iframe: "
+"<code>[inboxphoto_iframe]</code>"
+msgstr ""
+
+#: include/settings.php:1
+msgid "Success. Your shop name is:"
+msgstr ""
+
+#: include/settings.php:1
+msgid "Error: the inbox.photo slug seems incorrect. Please fix it."
+msgstr ""
+
+#: include/widget.php:13 include/widget.php:15
+msgid "inbox.photo widget"
+msgstr ""
+
+#: include/widget.php:50
+msgid "Prints"
+msgstr ""
+
+#: include/widget.php:87
+msgid "New title"
+msgstr ""
+
+#: include/widget.php:99
+msgid "New product"
+msgstr ""
+
+#: include/widget.php:105
+msgid "New text"
+msgstr ""
+
+#: include/widget.php:135
+msgid "Current setting:"
+msgstr ""
+
+#: include/widget.php:135
+msgid "Category slug:"
+msgstr ""
+
+#: include/widget.php:135
+msgid "Product id:"
+msgstr ""
+
+#: include/widget.php:137
+msgid "Title:"
+msgstr ""
+
+#: include/widget.php:142
+msgid "Change to category:"
+msgstr ""
+
+#: include/widget.php:148
+msgid "Change to product:"
+msgstr ""
+
+#: include/widget.php:150
+msgid "Select category first"
+msgstr ""
+
+#: include/widget.php:154
+msgid "Button text:"
+msgstr ""
+
+#: include/widget.php:163
+msgid "Select a category"
+msgstr ""
+
+#: include/widget.php:178
+msgid "Select a product"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "inbox.photo helper"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://www.koffeeware.com/en/2016/12/12/wordpress-plug-in-for-inbox-photo/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Streamline integration of inbox.photo."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Koffeeware"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.koffeeware.com"
+msgstr ""

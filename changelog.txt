@@ -1,0 +1,77 @@
+== Changelog ==
+
+= 2.4 =
+* Added support for iframe
+
+= 2.3 =
+* Added option to sync customer account information to WordPress
+
+= 2.2 =
+* Performance hacks
+
+= 2.1 =
+* Various fixes
+
+= 2.0 =
+* Redesign general interface
+* Added optional Google Analytics click tracking
+* Added optional Google Tag Manager click tracking
+
+= 1.9.9 =
+* Performance hack
+* Fixed german translation
+
+= 1.9.7 =
+* Added uninstall database cleanup
+
+= 1.9.6 =
+* Tested with WordPress 4.8
+
+= 1.9.5 =
+* Updated readme.txt with API clarification
+
+= 1.9.4 =
+* Various fixes
+
+= 1.9 =
+* Added connection the inbox.photo API
+* Added order status information and notification
+
+= 1.8.3 =
+* Various fixes
+
+= 1.8 =
+* Improved widget management
+* Adding german translation
+
+= 1.7.4 =
+* Fixed localization configuration
+
+= 1.7 =
+* Adding product snippet
+* Adding product sidebar widget
+
+= 1.6.1 =
+* File name change to comply with WordPress guidelines
+
+= 1.6 =
+* Adding french translation
+
+= 1.5 =
+* Adding support for custom text
+* Performance and security hacks
+
+= 1.4 =
+* Adding support for product deep linking
+
+= 1.3 =
+* Adding support for localization
+
+= 1.2 =
+* Design fixes
+
+= 1.1 =
+* Various fixes
+
+= 1.0 =
+* First stable version
